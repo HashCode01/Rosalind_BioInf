@@ -15,9 +15,9 @@ The problem statements can be accessed [here](http://rosalind.info/problems/list
 List of problems already solved:
 
 0. 1. Comparative Approach for String Matching - Naive vs. KMP vs. Rabin-Karp
-0. 2. Finding Kmers 
-0. 3. Finding Clumps
-0. 4. Computing Frequencies 
+   2. Finding Kmers 
+   3. Finding Clumps
+   4. Computing Frequencies 
 1. Counting DNA Nucleotides
 2. Transcribing DNA into RNA
 3. Complementing a Strand of DNA
