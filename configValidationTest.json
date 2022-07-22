@@ -1,0 +1,34 @@
+{
+    "flags": {
+      "testFlag": {
+        "attributes": {
+          "region": {
+            "constraints": {
+              "elements": {
+                "enum": [
+                  "iad",
+                  "pdx",
+                  "mad",
+                  "bom"
+                ],
+                "type": "string"
+              },
+              "required": true,
+              "type": "array"
+            }
+          }
+        },
+        "description": "getJSONStructure",
+        "name": "testFlag"
+      }
+    },
+    "values": {
+      "testFlag": {
+        "enabled": false,
+        "region": [
+          "iad"
+        ]
+      }
+    },
+    "version": "1"
+  }
